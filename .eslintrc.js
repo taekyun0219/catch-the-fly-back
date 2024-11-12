@@ -23,7 +23,7 @@ module.exports = {
     '@typescript-eslint/no-explicit-any': 'off',
   },
   'prettier/prettier': [
-      'off',  //prettier 규칙에 따른 오류 무시됨
+      'off',  
       {
         singleQuote: true,
         trailingComma: 'all',
